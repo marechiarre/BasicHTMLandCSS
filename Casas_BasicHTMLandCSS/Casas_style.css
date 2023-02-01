@@ -1,0 +1,73 @@
+.image{
+	width:200px;
+	height:200px;
+}	
+.header{
+	padding:1px;
+	text-align:center;
+	background-image:url(head.png);
+	font-size:16px;
+	font-family: "Arial", Helvetica, sans-serif;
+	color:#373741
+}
+.images{
+	width:20px;
+	height:18px;
+}
+a:link {
+  color: #373741 ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active, a:visited {
+  color: #e5f3df;
+  background-color: transparent;
+  text-decoration: underline;
+}
+hr.solid{
+	border-top: 5px solid #373741;
+}
+body {
+  background-color: #e5f3df;
+}	
+.profile{
+	padding:1px;
+	text-align:center;
+	background: #373741;
+ 	width: 100px;
+	height: 20px;
+	font-weight:bold;
+	font-family: "Arial", Helvetica, sans-serif;
+	color:#CCCC99;
+}
+
+
+p{
+	font-family: "Arial", Helvetica, sans-serif;
+}
+table{
+	border-spacing: 30px;
+	margin-left: auto;  
+	margin-right: auto;  
+}
+th{
+	width:420px;
+	text-align:center;
+	font-weight:bold;
+	font-family: "Arial", Helvetica, sans-serif;
+	color:#CCCC99;
+	background-color:#373741;
+	height:10px;
+}
+.alnright{
+	text-align:right;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+.alnleft{
+	text-align:left;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+.caption {
+	display: block;
+	font-family: "Arial", Helvetica, sans-serif;
+}
